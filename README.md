@@ -1,28 +1,28 @@
 # AI Learning Playground
 
-Interactive AI, Machine Learning and LLM projects.
+Interactive AI explainers and engineering experiments.
 
 Maintained by [avinashsinha-x](https://github.com/avinashsinha-x).
 
 ## Interactive AI Projects
 
-| Project | Description | Original Source |
+| Project | Description | Source |
 |---|---|---|
-| Transformer Explainer | Understand GPT and Transformers | [poloclub](https://github.com/poloclub/transformer-explainer) |
-| CNN Explainer | Visualize convolutional networks | [poloclub](https://github.com/poloclub/cnn-explainer) |
-| Diffusion Explainer | Understand image generation | [poloclub](https://github.com/poloclub/diffusion-explainer) |
-| GAN Lab | Experiment with GANs | [poloclub](https://github.com/poloclub/ganlab) |
-| BertViz | Visualize transformer attention | [jessevig](https://github.com/jessevig/bertviz) |
+| Transformer Explainer | Understand GPT and Transformers | [Original](https://github.com/poloclub/transformer-explainer) |
+| CNN Explainer | Understand convolutional networks | [Original](https://github.com/poloclub/cnn-explainer) |
+| Diffusion Explainer | Understand diffusion models | [Original](https://github.com/poloclub/diffusion-explainer) |
+| GAN Lab | Experiment with GANs | [Original](https://github.com/poloclub/ganlab) |
+| BertViz | Visualize transformer attention | [Original](https://github.com/jessevig/bertviz) |
 
-## My Forks
+## My Repositories
 
-- https://github.com/avinashsinha-x/transformer-explainer
-- https://github.com/avinashsinha-x/cnn-explainer
-- https://github.com/avinashsinha-x/diffusion-explainer
-- https://github.com/avinashsinha-x/ganlab
-- https://github.com/avinashsinha-x/bertviz
+- [Transformer Explainer](https://github.com/avinashsinha-x/transformer-explainer)
+- [CNN Explainer](https://github.com/avinashsinha-x/cnn-explainer)
+- [Diffusion Explainer](https://github.com/avinashsinha-x/diffusion-explainer)
+- [GAN Lab](https://github.com/avinashsinha-x/ganlab)
+- [BertViz](https://github.com/avinashsinha-x/bertviz)
 
-## Learning Areas
+## Topics
 
 - Large Language Models
 - Transformer Architecture
@@ -31,10 +31,10 @@ Maintained by [avinashsinha-x](https://github.com/avinashsinha-x).
 - Diffusion Models
 - Generative AI
 - Neural Networks
-- Model Interpretability
+- AI Agents
+- Retrieval Augmented Generation
 
 ## Attribution
 
-These are independent open-source projects maintained by their
-respective original authors. This repository is a curated index.
-See each original repository for its licence and attribution terms.
+Original projects belong to their respective authors.
+Please refer to their repositories for licences and attribution.
